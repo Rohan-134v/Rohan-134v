@@ -1,53 +1,84 @@
-# 💫 About Me:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=50&lines=$+whoami;Hey+there+%F0%9F%91%8B;I'm+Rohan-134v;Software+Developer+%7C+Innovator;Welcome+to+my+GitHub+space!" alt="Typing SVG" />
+</p>
 
-🔭 I’m currently working on an IIT based startup<br>👯 I’m looking to collaborate on Webdev projects<br>🌱 I’m currently learning full stack web development<br>
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding animation" />
+</p>
+
+🚀 About Me
+🎓 I'm a B.Tech CSE student at PES University (2023-2027), driven by a passion for crafting impactful technology. My journey is focused on becoming a skilled Software Engineer.
+
+💡 I thrive on exploring and innovating in these areas:
+
+Full-Stack Development: Building robust and scalable web applications.
+
+Embedded Systems: Bridging the gap between software and hardware.
+
+Innovative Software Solutions: Creating practical and efficient solutions to real-world problems.
+
+✨ Highlight Projects:
+
+Sign Language Vocalizer: A system that translates real-time finger gestures into spoken language, enhancing communication accessibility.
+
+Real-Time Streaming Platform: Developed using the MERN stack & WebSockets, enabling seamless live data exchange.
+
+🛠️ My Technical Toolkit
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,git,figma,arduino,java" alt="Tech Stack" />
+</p>
+
+⚡ Core Strengths
+Clean Code & Best Practices
+
+RESTful APIs & WebSockets
+
+Responsive UI/UX Design
+
+Git & Agile Workflows
+
+Fast Learner & Problem Solver
+
+💼 Experience
+Software Development Intern — InstiBuzz (Mar 2024 – Apr 2025)
+
+Spearheaded the development of user-friendly UI components, significantly improving user experience.
+
+Enhanced website responsiveness across various devices, leading to a seamless browsing experience.
+
+Actively collaborated within agile development teams, leveraging Git for version control and efficient teamwork.
+
+📈 GitHub Insights
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan-134v&theme=tokyonight" alt="GitHub Profile Summary Card"/>
+</p>
 
 
+✨ Interactive Terminal
+<p align="center">
+Want to explore my profile in a unique way?
+<br>
+<a href="https://terminal-teal.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Launch%20Interactive%20Terminal-00FF00?style=for-the-badge&logo=terminal&logoColor=black&labelColor=000" alt="Launch Interactive Terminal"/>
+</a>
+</p>
 
+💬 Quote I Live By
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad." alt="Quote"/>
+</p>
 
+👋 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to contribute. Feel free to reach out!
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rohanjogi.rj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-a09b11298) 
-
-
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rohanjjj&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohanjjj&theme=tokyonight&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjjj&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rohanjjj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=rohanjjj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=rohanjjj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<a href="mailto:rohanjjogi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/rohan-a09b11298/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Rohan-134v">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
