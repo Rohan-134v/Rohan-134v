@@ -58,7 +58,7 @@ Actively collaborated within agile development teams, leveraging Git for version
 <p align="center">
 Want to explore my profile in a unique way?
 <br>
-<a href="https://terminal-teal.vercel.app/" target="_blank">
+<a href="https://terminal-lyart.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Launch%20Interactive%20Terminal-00FF00?style=for-the-badge&logo=terminal&logoColor=black&labelColor=000" alt="Launch Interactive Terminal"/>
 </a>
 </p>
