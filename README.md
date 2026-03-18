@@ -1,84 +1,89 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=50&lines=$+whoami;Hey+there+%F0%9F%91%8B;I'm+Rohan-134v;Software+Developer+%7C+Innovator;Welcome+to+my+GitHub+space!" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=45&lines=Rohan+|+Software+Developer;B.Tech+CSE+%E2%80%94+PES+University+%2723%E2%80%9327;Full-Stack+%7C+Embedded+Systems+%7C+Open+Source" alt="Typing SVG" />
 
-🚀 About Me
-🎓 I'm a B.Tech CSE student at PES University (2023-2027), driven by a passion for crafting impactful technology. My journey is focused on becoming a skilled Software Engineer.
+<br/>
 
-💡 I thrive on exploring and innovating in these areas:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohanjjogi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-a09b11298/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohan-134v)
+[![Terminal](https://img.shields.io/badge/Interactive_Terminal-00FF00?style=flat-square&logo=terminal&logoColor=black)](https://terminal-lyart.vercel.app/)
 
-Full-Stack Development: Building robust and scalable web applications.
+</div>
 
-Embedded Systems: Bridging the gap between software and hardware.
+---
 
-Innovative Software Solutions: Creating practical and efficient solutions to real-world problems.
+## About
 
-✨ Highlight Projects:
+B.Tech Computer Science student at PES University (2023–2027), focused on building reliable, scalable software. I take a pragmatic approach to engineering — readable code, clean architecture, and solutions that hold up in production.
 
-Sign Language Vocalizer: A system that translates real-time finger gestures into spoken language, enhancing communication accessibility.
+My primary areas of interest:
 
-Real-Time Streaming Platform: Developed using the MERN stack & WebSockets, enabling seamless live data exchange.
+- **Full-Stack Development** — Designing and shipping end-to-end web applications with attention to both system design and user experience.
+- **Embedded Systems** — Working at the intersection of software and hardware to build real-world, sensor-driven solutions.
+- **Systems Engineering** — Writing efficient, maintainable code that solves problems at scale.
 
-🛠️ My Technical Toolkit
-<p align="center">
+---
+
+## Technical Stack
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,git,figma,arduino,java" alt="Tech Stack" />
-</p>
 
-⚡ Core Strengths
-Clean Code & Best Practices
+</div>
 
-RESTful APIs & WebSockets
+**Languages:** C, C++, Python, JavaScript, TypeScript, Java  
+**Frontend:** React, HTML5, CSS3, Figma  
+**Backend:** Node.js, Express.js, REST APIs, WebSockets  
+**Database:** MongoDB  
+**Tooling:** Git, Arduino, Agile workflows
 
-Responsive UI/UX Design
+---
 
-Git & Agile Workflows
+## Work Experience
 
-Fast Learner & Problem Solver
+**Software Development Intern — InstiBuzz**  
+`March 2024 – April 2025`
 
-💼 Experience
-Software Development Intern — InstiBuzz (Mar 2024 – Apr 2025)
+- Built and shipped UI components that measurably improved user experience across the platform.
+- Improved cross-device responsiveness, reducing layout inconsistencies across mobile and desktop viewports.
+- Contributed within an agile team using Git for version control, code review, and collaborative delivery.
 
-Spearheaded the development of user-friendly UI components, significantly improving user experience.
+---
 
-Enhanced website responsiveness across various devices, leading to a seamless browsing experience.
+## Selected Projects
 
-Actively collaborated within agile development teams, leveraging Git for version control and efficient teamwork.
+**Sign Language Vocalizer**  
+A real-time gesture recognition system that translates finger-sign inputs into synthesized speech output, designed to bridge communication gaps for users with hearing or speech impairments.
 
-📈 GitHub Insights
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan-134v&theme=tokyonight" alt="GitHub Profile Summary Card"/>
-</p>
+**Real-Time Streaming Platform**  
+Built on the MERN stack with WebSocket integration, enabling low-latency live data exchange between clients — architected for concurrency and connection stability.
 
+---
 
-✨ Interactive Terminal
-<p align="center">
-Want to explore my profile in a unique way?
-<br>
-<a href="https://terminal-lyart.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Launch%20Interactive%20Terminal-00FF00?style=for-the-badge&logo=terminal&logoColor=black&labelColor=000" alt="Launch Interactive Terminal"/>
-</a>
-</p>
+## GitHub Activity
 
-💬 Quote I Live By
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad." alt="Quote"/>
-</p>
+<div align="center">
 
-👋 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities to contribute. Feel free to reach out!
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan-134v&theme=tokyonight" alt="GitHub Profile Summary" />
 
-<p align="center">
-<a href="mailto:rohanjjogi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/rohan-a09b11298/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Rohan-134v">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+</div>
+
+---
+
+## Principles
+
+> "Code is like humor. When you have to explain it, it's bad."
+
+Clean interfaces. Minimal abstractions. No surprises in production.
+
+---
+
+## Contact
+
+Open to collaborations, internship opportunities, and technical discussions. Reach out directly:
+
+- **Email:** rohanjjogi@gmail.com
+- **LinkedIn:** [rohan-a09b11298](https://www.linkedin.com/in/rohan-a09b11298/)
+- **Interactive Terminal:** [terminal-lyart.vercel.app](https://terminal-lyart.vercel.app/)
