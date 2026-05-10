@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohanjjogi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-a09b11298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohan-134v)
-[![Portfolio](https://img.shields.io/badge/Interactive_Terminal-00FF00?style=flat-square&logo=terminal&logoColor=black)](https://devs-portfoilio.vercel.app/)
+[![Portfolio]()](https://devs-portfoilio.vercel.app/)
 
 </div>
 
